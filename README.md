@@ -3,14 +3,11 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hiiiroko&show_icons=true&hide_border=true&theme=tokyonight" />
 <img width="50%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/BR.png?raw=true" />
 <img width="50%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/Yakeylt.jpeg?raw=true" />
-<img width="10%" align="right" src="https://komarev.com/ghpvc/?username=hiiiroko&label=Profile%20Visits&color=blue&style=flat-square"/>
 
 ### Hi there 🥳
 I'm H1rk, a college student studying front-end development.
 
-[![Blog](https://img.shields.io/badge/Blog-%23333.svg?logo=blogger&logoColor=white)](https://hiiiroko.github.io/)
-
-
+[![H1rk's Blog](https://img.shields.io/badge/Blog-%23333.svg?logo=blogger&logoColor=white)](https://hiiiroko.github.io/)
 
 ### About
 ```javascript
