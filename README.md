@@ -42,4 +42,4 @@ class About extends Me {
 }
 ```
 
-<img align="left" width="10%" src="https://komarev.com/ghpvc/?username=hiiiroko&label=Profile%20Visits&color=blue&style=flat-square"/>
+<img align="right" width="10%" src="https://komarev.com/ghpvc/?username=hiiiroko&label=Profile%20Visits&color=blue&style=flat-square"/>
