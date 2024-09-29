@@ -33,7 +33,8 @@ class About extends Me {
     "platforms": ["Windows", "Mac", "Ubuntu"],
     "motto": function() {
       setInterval(() => {
-        console.log("A step forward brings a step of joy.");
+        console.log("A step forward, ");
+        console.log("a step of joy.");
       }, Infinity);
     }
   };
