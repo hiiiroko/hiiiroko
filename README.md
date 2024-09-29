@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=hiiiroko&label=Profile%20Visits&color=blue&style=for-the-badge)
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
   <div style="width: 50%; padding-right: 20px;">
@@ -52,3 +50,8 @@ class About extends Me {
   };
 }
 
+```
+    
+![Yakeylt](https://github.com/hiiiroko/hiiiroko/blob/main/assets/Yakeylt.jpeg?raw=true)
+
+![](https://komarev.com/ghpvc/?username=hiiiroko&label=Profile%20Visits&color=blue&style=for-the-badge)
