@@ -1,14 +1,17 @@
-<table style="border-collapse: collapse; border: none; background: transparent;">
-<tr style="border: none; background: transparent;">
-<td width="65%" style="border: none; background: transparent; vertical-align: top;">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiiiroko&layout=compact&theme=tokyonight&hide_border=true" />
 
-# Hi there 🥳
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hiiiroko&show_icons=true&hide_border=true&theme=tokyonight" />
 
+<img width="50%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/Yakeylt.jpeg?raw=true" />
+
+### Hi there 🥳
 I'm H1rk, a college student studying front-end development.
 
-[My Blog](https://hiiiroko.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-%23333.svg?logo=blogger&logoColor=white)](https://hiiiroko.github.io/)
 
-## About
+
+
+### About
 ```javascript
 class About extends Me {
   const myself = {
@@ -39,14 +42,4 @@ class About extends Me {
 }
 ```
 
-</td>
-<td width="35%" style="border: none; background: transparent; vertical-align: top;">
-<img src="https://github-readme-stats.vercel.app/api?username=hiiiroko&show_icons=true&hide_border=true&theme=tokyonight&card_width=440" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiiiroko&layout=compact&card_width=440&hide_border=true&theme=tokyonight&langs_count=6" width="100%"/>
-<div style="position: absolute; bottom: 0; width: 100%;">
-<img src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/Yakeylt.jpeg?raw=true" width="100%"/>
-<img src="https://komarev.com/ghpvc/?username=hiiiroko&label=Profile%20Visits&color=blue&style=flat-square" width="50%"/>
-</div>
-</td>
-</tr>
-</table>
+<img align="right" width="10%" src="https://komarev.com/ghpvc/?username=hiiiroko&label=Profile%20Visits&color=blue&style=flat-square"/>
