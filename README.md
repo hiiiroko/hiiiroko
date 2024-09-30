@@ -1,6 +1,8 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiiiroko&layout=compact&theme=tokyonight&hide_border=true" />
 <img width="50%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/BR.png?raw=true" />
+<img width="50%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/BR.png?raw=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hiiiroko&show_icons=true&hide_border=true&theme=tokyonight" />
+<img width="50%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/BR.png?raw=true" />
 <img width="50%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/BR.png?raw=true" />
 <img width="50%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/Yakeylt.jpeg?raw=true" />
 
