@@ -36,9 +36,12 @@ class About extends Me {
   };
 }
 ```
-
-![hiiiroko's Stats](https://github-readme-stats.vercel.app/api?username=hiiiroko&theme=graywhite&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile)
-
-![hiiiroko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiiiroko&theme=graywhite&hide_border=true)
-
-![hiiiroko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiiiroko&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hiiiroko&theme=graywhite&count_private=true&rank_icon=percentile" />
+</a>
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiiiroko&layout=compact&langs_count=8&card_width=320&theme=graywhite" />
+</a> -->
+<a href="">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiiiroko&theme=graywhite&hide_border=true" />
+</a>
