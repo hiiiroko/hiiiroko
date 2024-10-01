@@ -36,12 +36,13 @@ class About extends Me {
   };
 }
 ```
-<a href="">
-  <img width="45%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hiiiroko&theme=graywhite&count_private=true&rank_icon=percentile" />
+
+<a href="https://github.com/hiiiroko">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hiiiroko&theme=graywhite&count_private=true&rank_icon=percentile" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/hiiiroko">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiiiroko&layout=compact&langs_count=8&card_width=320&theme=graywhite" />
-</a> -->
-<a href="">
-  <img width="45%" height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiiiroko&theme=graywhite&hide_border=true" />
 </a>
+<!-- <a href="">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiiiroko&theme=graywhite&hide_border=true" />
+</a> -->
