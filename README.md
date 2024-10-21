@@ -23,7 +23,6 @@ class About extends Me {
     "areasOfInterest": [
       "Front-end Development", 
       "Customization",  
-      "APEX Legends", 
       "Photography"
     ],
     "platforms": ["Windows", "Mac", "Ubuntu"],
