@@ -34,13 +34,3 @@ class About extends Me {
   };
 }
 ```
-
-<a href="https://github.com/hiiiroko">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hiiiroko&theme=moltack&count_private=true&rank_icon=percentile&include_all_commits=true" />
-</a>
-<a href="https://github.com/hiiiroko">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiiiroko&layout=compact&langs_count=8&card_width=240&theme=moltack" />
-</a>
-<!-- <a href="">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiiiroko&theme=graywhite&hide_border=true" />
-</a> -->
