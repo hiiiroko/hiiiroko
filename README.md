@@ -25,7 +25,7 @@ class About extends Me {
       "Customization",  
       "Photography"
     ],
-    "platforms": ["Windows", "Mac", "Ubuntu"],
+    "platforms": ["Windows", "MacOS", "Linux"],
     "motto": function() {
       setInterval(() => {
         console.log("A step forward, a step of joy.");
