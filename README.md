@@ -1,7 +1,7 @@
 <img width="36%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/Yakeylt.jpeg?raw=true" />
 
 ### Hi there 🥳
-I'm H1rk, a college student studying front-end development.
+I'm Hiroko, a college student studying front-end development.
 
 [![H1rk's Blog](https://img.shields.io/badge/Blog-%23333.svg?logo=blogger&logoColor=white)](https://hiiiroko.github.io/)
 
