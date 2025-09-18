@@ -3,7 +3,9 @@
 ### Hi there 🥳
 I'm Hiroko, a college student studying front-end development.
 
-[![H1rk's Blog](https://img.shields.io/badge/Blog-%23333.svg?logo=blogger&logoColor=white)](https://hiiiroko.github.io/)
+<a href="https://hiiiroko.github.io">
+	<img src="https://custom-icon-badges.herokuapp.com/badge/blog-hiroko-3876DC?logoColor=3876DC&style=for-the-badge&logo=blog-hiroko&labelColor=363B40" alt="Download Releases"/>
+</a>
 
 ### About
 ```javascript
