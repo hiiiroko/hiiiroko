@@ -1,4 +1,6 @@
-<img width="36%" align="right" src="https://github.com/hiiiroko/hiiiroko/blob/main/assets/Yakeylt.jpeg?raw=true" />
+<h1 align="center">
+  <img alt="PIXIU75 Banner" src="https://github.com/user-attachments/assets/c6174953-8b53-4d07-942a-b056ae68b93d"/>
+</h1>
 
 ### Hi there 🥳
 I'm Hiroko, a college student studying front-end development.
@@ -12,15 +14,6 @@ class About extends Me {
   const myself = {
     "university": "Central China Normal University",
     "organization": "Muxi Studio",
-    "programmingLanguages": [
-      "JavaScript", 
-      "TypeScript", 
-      "Node.js", 
-      "HTML", 
-      "CSS", 
-      "Python", 
-      "C++"
-    ],
     "areasOfInterest": [
       "Front-end Development", 
       "Customization",  
